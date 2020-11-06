@@ -1,0 +1,4 @@
+﻿  Exercicio1.cpp
+C:\Users\josee\OneDrive\Documentos\My\Projetos\Ex.1-facul\Visual Studio - C\Ex.1facul\Project1\Exercicio1.cpp(46,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\josee\OneDrive\Documentos\My\Projetos\Ex.1-facul\Visual Studio - C\Ex.1facul\Project1\Exercicio1.cpp(47,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\josee\OneDrive\Documentos\My\Projetos\Ex.1-facul\Visual Studio - C\Ex.1facul\Debug\Project1.exe

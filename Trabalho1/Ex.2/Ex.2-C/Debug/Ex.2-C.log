@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\josee\OneDrive\Documentos\My\Projetos\Ex.2-facul\Visual Studio - C\Ex.2-C\Ex.2-C\Source.cpp(121,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\josee\OneDrive\Documentos\My\Projetos\Ex.2-facul\Visual Studio - C\Ex.2-C\Ex.2-C\Source.cpp(25,6): warning C4101: 'saida': unreferenced local variable
+  Ex.2-C.vcxproj -> C:\Users\josee\OneDrive\Documentos\My\Projetos\Ex.2-facul\Visual Studio - C\Ex.2-C\Debug\Ex.2-C.exe
